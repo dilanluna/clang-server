@@ -1,0 +1,6 @@
+# editors
+.vscode
+
+# build
+build
+!build/.gitkeep
